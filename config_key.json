@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kanal-servise-350817",
+  "private_key_id": "ca049558aeccf57e41e3abcd3827d10822852380",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCdzhoIRn8rAbbt\nNW7aJfIXD0YJoBVtV8BQKq45R350ufdIAb8dj/LhsG1VhpLAeMNNVV78YsRoIqQQ\ngNhp67kiNojutfdZbalVKz5UsbfJ8q39tMEt2r66lnz5N/aj1/ZOn8jdsgLBWl1b\nILw0ztjHewhQcvptMVCBXOBTfmrgQ1gmHpIiuMXZGTB37wMuZqG/nEKNuo1YRMmX\nKxzkLt3BhMr6n4Bk8ROEGA1nfGvglCAeGZF60tim5Lt9QcNwz4UAIsWYJ2P83JYD\n2It343Pmpe6OJArV7qPXdce7lUC2CjekuQKAvC4QqAI2Fa8zu5hXT8BXtVgdPbp3\nd26bXVRxAgMBAAECggEAJVxSVXs7SFdTk71+zS8Grebz0fuQlx6bbV9teCoxCjmt\nDeM7+CfIfR5kBEekHuV4d6qqnl5T2cO5zB51Hj6syijXKozyTr3jxUJDs5GPzcQi\n5VoSEmUjmtFeLTLOteO/cMXrrHEkrdpTF+wcIvSF5lR+l21hVNDEGpx+j8XyT73C\nYpgEivkJJ78NRKyUpio+BrZ5lO3yRIIocNaoGfwFIQCwp9pFtb7yPDtYwgQiRudS\nqXN09fC42ShsddId3l7XMoYjjuAPyOHCY9tZ4dH8Y3ZSomZkxTnuVsxKX6veBQu0\nCzsHFt5WusKIU8xvzwduFSNEGdBLlGt4W58WAbyC8QKBgQDcQ9qMoizIe96zKb1+\n/Io4EaCDBumuldsbqLtMVQ+rccIvmaG9MoXVwWhW9wimrOdtJdKzOp0slLnjbHE8\n5fW3aP5d6sQqd4oCNfLuFPu1SP2wrmS5FZ/a5eo461jUVbcWoCMblsVOXf+0GJJR\n+1uQm8Om47C4vQh4ZWqIOEI03wKBgQC3aCH7ShLiW9bRdJKkKGA0VrpXQxyD6Gty\nFtdp26z4rgn82Ln1WpmSLvXZuY+/ed5NdGGOkfOQUkt8Sy3ImMOrHiYWJ69oGULQ\n9M5a+YLdnDn+PddbEB5qsEwdsjyX6zf8ihyP9yPbY9ZA8YwEIkdlLJOrJ8kjBt1W\ni1xmE5rQrwKBgAEraxGsGsjFv5z778Go3aMGlO+dLch7izpOXxA8s2SZqgpOqoky\np3tHF6K+lREtgd0WglPpT8RY1dPbU46bOf7LU+5zvK7tC5KPbsbM3blMtewmQOqq\nrrqe1euPdF1MRzibiRQwbMPJw/3U05IT35yY9yT/uISCnHTnNPWcNt3JAoGAGSw2\ntcnF68GVK2xnkBZmlehtbPquGEC3NpKCAGqBRCSHBGgupclImLLPVZHNdAdjBph5\np1rK5j0VVTrwTr8A5CSgL5xEy/HjpNBk3kGuv4Hox8dvHnWI5zXJTK4g+Oz04zmF\nkBDon/0E9CbzA8I8sFs87VnplmAj0vQPu4bnUcsCgYEAnD7uFfKpZMpmyyV7+bfK\np2F1XGbPJ2d6iI/lsZZ9/cQwbxUX1TWub2ft3EvpXKgmLSKwBqSepmqQVfabbLfq\nkKNlZOhP3FRSfmSNnd4NgW1STgKAh1iJbLJwEXKEGdLjfJ7/eq+C6DEX+leP3oAI\nhOphsobdkK8K0Z7DxLGMtPQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sevise-562@kanal-servise-350817.iam.gserviceaccount.com",
+  "client_id": "100179125815510066535",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sevise-562%40kanal-servise-350817.iam.gserviceaccount.com"
+}
